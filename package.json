@@ -1,5 +1,14 @@
 {
+	"author": "Vitor Sinedino",
+	"description": "This is a study project",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [
+		"stuies",
+		"freecodecamp",
+		"backend"
+	],
+  "version": "1.0.0",
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
